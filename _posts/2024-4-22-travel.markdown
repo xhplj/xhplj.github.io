@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2024 四龙洞"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2024-04-22 12:00:00
 author:     "Xhp"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -11,3 +11,9 @@ tags:
 ---
 
 2024-4-22-travel 四龙洞
+
+
+<video controls>
+  <source src="[video.mp4](https://cdn.jsdelivr.net/gh/xhplj/git-img/c3d78c9a1b4d42636d7d2e7e4cfa28dd.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
