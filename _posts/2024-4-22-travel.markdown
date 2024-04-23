@@ -12,8 +12,6 @@ tags:
 
 2024-4-22-travel 四龙洞
 
-
 <video controls>
-  <source src="[video.mp4](https://cdn.jsdelivr.net/gh/xhplj/git-img/c3d78c9a1b4d42636d7d2e7e4cfa28dd.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/c3d78c9a1b4d42636d7d2e7e4cfa28dd.mp4" type="video/mp4">
 </video>
