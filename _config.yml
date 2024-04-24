@@ -1,10 +1,10 @@
 # Site settings
-title: Xhp Blog
-SEOTitle: 野人的博客 | Xhp Blog
+title: xhp's Blog
+SEOTitle: 野人的博客 | xhp's Blog
 header-img: img/home-bg.jpg
 email: pard@vip.qq.com
 description: "这里是 @Xhp野人 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "野人, Xhp 野人, Xhp, 鬼栈, huxpro, @huxpro, 野人的博客, Xhp Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "野人, xhp 野人, xhp, 鬼栈, huxpro, @huxpro, 野人的博客, xhp's Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: xhp
 
 # Netease settings
 netease_comment: false
