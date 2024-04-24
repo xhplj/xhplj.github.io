@@ -27,5 +27,5 @@ tags:
 尘嚣尽忘返自然。
 
 <video controls>
-  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/c3d78c9a1b4d42636d7d2e7e4cfa28dd.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/f9226296d5ed01fb05038db3bd07e39d.mp4" type="video/mp4">
 </video>
