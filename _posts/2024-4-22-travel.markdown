@@ -19,7 +19,7 @@ tags:
 ### 四龙洞泉水：清澈见底，充满奇趣
 
 四龙洞泉水是石桩河村的一大亮点。泉水清澈见底，水底的泥沙、游鱼清晰可见，犹如一块晶莹剔透的翡翠。泉水池底会不断冒出气泡，如同串串珍珠，为泉水增添了灵动的气息。泉水温度清凉，令人倍感舒适，是消暑纳凉的绝佳选择。泉水旁，一棵高大的重阳树守护着这片清泉，重阳树是稀有物种，更为此处增添了独特的自然魅力。
-
+![重阳古树](https://cdn.jsdelivr.net/gh/xhplj/git-img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240424224317.jpg)
 ***
 ## 古桥
 
@@ -44,7 +44,7 @@ tags:
 尘嚣尽忘返自然。
 
 ***
-![重阳古树](https://cdn.jsdelivr.net/gh/xhplj/git-img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240424224317.jpg)
+
 
 <video controls>
   <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/f9226296d5ed01fb05038db3bd07e39d.mp4" type="video/mp4">
