@@ -12,6 +12,20 @@ tags:
 
 2024-4-22-travel 四龙洞
 
+# 春日进山
+
+唐时竹根发新笋，  
+历代重阳护古村。
+
+无名泉眼受香敬，  
+古木之下聚茶宾。
+
+谷中雅亭听水潺，  
+树梢蔷薇野意酣。
+
+天目花绽林间路，  
+尘嚣尽忘返自然。
+
 <video controls>
   <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/c3d78c9a1b4d42636d7d2e7e4cfa28dd.mp4" type="video/mp4">
 </video>
