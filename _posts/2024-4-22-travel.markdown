@@ -44,6 +44,7 @@ tags:
 尘嚣尽忘返自然。
 
 ***
+![重阳古树](https://cdn.jsdelivr.net/gh/xhplj/git-img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240424224317.jpg)
 
 <video controls>
   <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/f9226296d5ed01fb05038db3bd07e39d.mp4" type="video/mp4">
