@@ -47,6 +47,3 @@ tags:
 <video controls>
   <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/f9226296d5ed01fb05038db3bd07e39d.mp4" type="video/mp4">
 </video>
-<video controls>
-  <source src="https://cdn.jsdelivr.net/gh/xhplj/git-img/f9226296d5ed01fb05038db3bd07e39d.mp4" type="video/mp4">
-</video>
